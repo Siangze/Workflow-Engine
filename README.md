@@ -2,7 +2,7 @@
 
 A powerful, visual workflow management system built with Python and Tkinter. This tool allows you to organize, visualize, and execute complex sequences of Python scripts with ease. Designed with a clean **MVP (Model-View-Presenter)** architecture, it provides a robust foundation for task automation.
 
-![App Icon](configs/icon.png)
+![App Icon](configs/app_icon.png)
 
 ## 🚀 Key Features
 
