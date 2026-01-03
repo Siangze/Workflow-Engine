@@ -1,0 +1,23 @@
+{
+  "migration_flow": {
+    "title": "flow title",
+    "description": "flow description",
+    "steps": [
+      {
+        "name": "step name",
+        "module": "step module",
+        "overview": "step overview"
+      },
+      {
+        "name": "step name",
+        "module": "step module",
+        "overview": "step overview"
+      },
+      {
+        "name": "step name",
+        "module": "step module",
+        "overview": "step overview"
+      }
+    ]
+  }
+}
